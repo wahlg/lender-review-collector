@@ -3,6 +3,10 @@ A Ruby on Rails application for collecting review data from https://www.lendingt
 
 Written by Greg Wahl
 
+Ruby Version: 2.4.1
+
+Rails Version: 5.2.3
+
 ## Setup
 
 Install required dependencies:
